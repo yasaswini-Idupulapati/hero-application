@@ -1,0 +1,25 @@
+body{
+    background-color: rgb(119, 239, 255);
+    padding: 0%;
+    margin: 0%;
+    text-align: center;
+}
+
+#title {
+    font-family: East Sea Dokdo;
+    font-size: 30px;
+    text-align: center;
+}
+
+.trunks {
+    width: 100px;
+    height: 100px;
+    object-fit: fill;
+    border: none;
+    border-radius: 50%;
+    margin-bottom: 50px ;
+}
+
+#new-img {
+    border-radius: 50%;
+}
